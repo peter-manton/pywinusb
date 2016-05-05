@@ -7,3 +7,7 @@ OS's currently tested:
 - Windows 10 (All Versons)
 - Windows 8 (Pro)
 - Windows 7 (Home and Pro)
+
+TODO:
+
+- Tidy up code, better exception handling.
