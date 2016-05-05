@@ -10,4 +10,6 @@ OS's currently tested:
 
 TODO:
 
-- Tidy up code, better exception handling.
+- Automatic OS detection.
+- Improve exception handling.
+- Packages for other linux distro's.
